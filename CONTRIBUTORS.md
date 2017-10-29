@@ -16672,3 +16672,8 @@ to explore life. Also, Python and Django Developer
  - Place: West Bengal, India
  - Bio: Learning Web Dev & Design
  - GitHub: [lenkachinmoy](https://github.com/lenkachinmoy)
+
+#### Name: [Sanju Mondal](https://github.com/spliser)
+ - Place: West Bengal, India
+ - Bio: JGEC student CSE
+ - GitHub: [spliser](https://github.com/spliser)
